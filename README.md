@@ -1,7 +1,7 @@
 Tensorflow   2.18.0  
 h5py			   3.14.0  
 imageio			 2.36.0  
-matlablib   		1.2  
+matplotlib   		3.10.3    
 numpy  	   		1.26.1  
 opencv-python		4.7.0.72  
 pillow			 23.2.1  
